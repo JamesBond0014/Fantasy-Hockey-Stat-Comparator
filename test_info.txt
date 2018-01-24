@@ -1,0 +1,12 @@
+2,3,5
+last, first, cntry, dob, sht, gs, a, blksht,star, mspd, shtpwr
+Bond, James, England, 1989-02-14,10, 5, 8, 25, 2, 25, 97
+Santos, Michaela, Philipines, 1999-01-08, 20,19,5,12,5, 20,80
+Wang, Xin, China, 1998-11-12, 14,15,12,6,3,30,99
+Walford, Ashley, Japan, 1998-06-26,15,15,13,8,4,99,100
+Na, Dain, Korea, 1998-06-28,20,18,15,9,2,98,70
+Wang, Eric, Canada, 1998-09-07, 30,21,08,10,5,88,92
+Chong, Alexa, Canada, 1998-10-12,12,11,10,9,8,72,62
+Wang, Kevin, China, 1998-12-15,16,12,14,17,8,78,89
+West, Nathan, Ireland, 1998-10-2,8,4,1,19,9,99,70
+Bao, Richard, Canada, 2001-04-09, 2,2,2,2,2,102,10

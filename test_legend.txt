@@ -1,0 +1,11 @@
+last, Last Name
+first, First Name
+cntry, Country
+dob, Birth Date
+#sht, shots
+#gs, goals
+#a, assists
+#blksht, blocked shots
+#star, star of the game
+#mspd, max speed
+#shtpwr, shot power
